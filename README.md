@@ -23,9 +23,6 @@ STORM NEURO LIMITS — контроллер и панель управления
 1. Скачайте инсталлятор `STORM_NEURO_LIMITS_<версия>_Setup.exe` или архив `STORM_NEURO_LIMITS_<версия>.zip` из раздела **Releases** на GitHub.
 2. Запустите установку.
 
-## **Безопасность и цифровые подписи**
-Подписано сертификатом **CN=STORM SOFT, O=STORM EDEN** (SHA-256 Authenticode).
-
 ## **Благодарности**
 - **Georgi Gerganov и сообщество GGML / Llama.cpp** — за архитектуру квантования GGUF и инференс нейросетей.
 - **Команда NVIDIA** — за интерфейс низкоуровневого мониторинга NVML API.
